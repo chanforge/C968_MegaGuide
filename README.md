@@ -1,8 +1,12 @@
-# C968
+# C968 Mega Guide
 
 ## Performance assessment guide
 
 Resources and links related to the performance assessment for this course with captions.
+All links and contents have been provided by WGU through their own Resources / Course Tips pages, however, the content is typically scatted and hard to follow in a consecutive manner leading to the creation of your performance assessment project.
+This is a guide to help list every known resources related to the C968 PA in a clean list to provide you improved guidance and tracking your progress.
+
+Feel free to copy and use the checklists in your own markdown reader.
 
 ## Requirements
 
