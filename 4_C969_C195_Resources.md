@@ -1,6 +1,8 @@
-## C969/195
+# C969/195
 
 Resources and links related to the performance assessment for this course with captions.
+
+Some of these overlap with C968 and are included in this guide.
 
 [C969](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5aa328dc-767c-4347-9df9-a9ac01217ee9)  
 [Running Your Local Database In UTC (09-24-21) (Captioned)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d1b75cd2-3522-480e-8109-adad01005ad0)  

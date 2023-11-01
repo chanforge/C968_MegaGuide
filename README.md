@@ -1,24 +1,64 @@
 # C968 Mega Guide
 
-## Performance assessment guide
+## Table of contents 📋
 
-Resources and links related to the performance assessment for this course with captions.
+1. WGU's PA guide + resources & videos (Directory)
+    - [Performance Assessment guide](#PA-guide)
+    - [UML Class diagram](#uml-diagram)
+    - [Lauren Provost's webinars](#LP-webinars)
+    - [Data Grid webinars](#datagrid-webinars)
+    - [Tom Weidner's webinars](#TW-webinars)
+    - [Visual Studio & Other info](#VS-other-info)
 
-All links and contents have been provided by WGU through their own Resources / Course Tips pages, however, the content is typically fragmented and hard to follow in a consecutive manner leading to the creation of your performance assessment project.
+2. PA requirements checklist (Does it have what it needs?)
+    - [Introduction](#PA-requirements-checklist)
+    - [Checklist Part 1: User Interface](#part1-ui-checklist)
+    - [Checklist Part 2: Application](#part2-application-checklist)
 
-This is a guide to help list every known resources related to the C968 PA in a clean list to provide you improved guidance and tracking your progress.
+3. Project checklist (Step by step basics to walk your project through)
+    - [Start your project here!](#project-checklist) 👈
 
-Feel free to copy and use the checklists in your own markdown reader.
+<a name="PA-guide"></a>
 
-## Requirements
+## 🌐 Performance Assessment guide 🌐
 
-[Software I checklist](https://srm--c.vf.force.com/apex/CourseArticle?id=kA03x000000snjQCAQ&groupId=&searchTerm=&courseCode=C968&rtn=%2Fapex%2FCommonsExpandedSearch)
+In this guide, you'll find resources and links related to the performance assessment for this course, complete with
+captions.
 
-[The A, B, C's for C968 (Requirements)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5dd7ac94-2eee-4391-a343-ad91013cfe22) - (08-29-2021)
+*All the links and content are courtesy of WGU through their Resources/Course Tips pages.*
+
+However, the content is often scattered, making it challenging to follow in a logical sequence when working on your
+performance assessment project.
+
+This guide aims to compile a comprehensive list of resources for the C968 PA in a clear format, offering you improved
+guidance and progress tracking.
+
+**Feel free to copy and use the checklists in your preferred markdown reader.**
+
+**Note:** All requirements and information are from WGU as of *Fall 2023*.
 
 ---
 
-## Lauren Provost's Webinars
+### Project requirements
+
+[Software I checklist](https://srm--c.vf.force.com/apex/CourseArticle?id=kA03x000000snjQCAQ&groupId=&searchTerm=&courseCode=C968&rtn=%2Fapex%2FCommonsExpandedSearch)
+
+[The A, B, C's for C968 (Requirements)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5dd7ac94-2eee-4391-a343-ad91013cfe22) - (
+08-29-2021)
+
+---
+
+<a name="uml-diagram"></a>
+
+#### UML Class Diagram
+
+<img src = "https://i.imgur.com/YjgeFDs.png" alt=UML Class Diagram>
+
+---
+
+<a name="LP-webinars"></a>
+
+### Lauren Provost's Webinars
 
 Part 1: GUI Mock up in action
 [Lauren Provost's Personal Room: 2224-1 (August 21, 2023)](https://wgu.webex.com/wgu/ldr.php?RCID=9fe68a533178c30d28109b2ecefc5123)
@@ -27,10 +67,11 @@ Part 2: The ABC's for C
 [Lauren Provost's Personal Room: 2251-1 (August 21, 2023)](https://wgu.webex.com/wgu/ldr.php?RCID=e81c0e4b186d03af64ba2d7302ec51ed)
 
 ---
+<a name="datagrid-webinars"></a>
 
-## Data Grid
+### Data Grid
 
-### The DataGrid series (2021)
+#### The DataGrid series (2021)
 
 [The Data Grid: Swords (7-11-2021)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c1e9a4ce-951f-41c3-a93b-ad6200f02677)
 
@@ -39,13 +80,15 @@ Part 2: The ABC's for C
 [The DataGrid: A little more, Part 3 (08-08-2021)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6f47db54-9139-4b6b-8265-ad7e00f69d45)
 
 ---
+<a name="TW-webinars"></a>
 
-## Tom Weidner’s Webinars
+### Tom Weidner’s Webinars
 
 #### Apr 18, 2021
 
 - [Access your database & switch times from UTC to local](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cc70088d-b76f-4342-a196-ad13014cde7c)
-- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2021Apr18?csf=1&web=1&e=3I4eiA) to associated materials
+- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2021Apr18?csf=1&web=1&e=3I4eiA)
+  to associated materials
 - DB access
 - UTC to Local times
 - Report
@@ -53,18 +96,21 @@ Part 2: The ABC's for C
 #### Sep 25, 2020
 
 - [Lambdas](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b55e7b27-bf94-43f1-8d02-ac440014b822)
-- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Sep25?csf=1&web=1&e=OcuiYY) to associated materials
+- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Sep25?csf=1&web=1&e=OcuiYY)
+  to associated materials
 
 #### Aug 28, 2020
 
 - [Validation of info in text forms](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f93c466f-cc5a-46eb-92c6-ac26003f64bd)
-- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Aug28?csf=1&web=1&e=sv5jAA) to associated materials
+- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Aug28?csf=1&web=1&e=sv5jAA)
+  to associated materials
 - validating text boxes
 
 #### Jun 26, 2020
 
 - [Objects, lists of objects, displaying objects](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a339aab-e003-425b-a18d-abee0049027b)
-- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Jun26?csf=1&web=1&e=4Z7QFh) to associated materials
+- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Jun26?csf=1&web=1&e=4Z7QFh)
+  to associated materials
 - Lists of things with lists of things
 
 #### May 8, 2020
@@ -74,46 +120,53 @@ Part 2: The ABC's for C
 - UTC to Local time handling
 
 - [Tracking user logins to a text file](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fe693849-4029-4ccc-96df-abb70052da9c)
-- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020-05-08?csf=1&web=1&e=jYW3Pl) to associated materials
+- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020-05-08?csf=1&web=1&e=jYW3Pl)
+  to associated materials
 - Text file IO
 
 #### Apr 24, 2020
 
 - [How to generate a report (Student request)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=56c142bb-f527-4494-ba30-ac4900032d09)
-- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Apr24?csf=1&web=1&e=Q0GTYE) to associated materials
+- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Apr24?csf=1&web=1&e=Q0GTYE)
+  to associated materials
 - generating reports
 
 #### Mar 27, 2020
 
 - [How to pre-populate a DataGridView list (Student request)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a6cc7f1-7e33-46c5-957c-ac490002fd09)
-- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Mar27?csf=1&web=1&e=DACbPw) to associated materials
+- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Mar27?csf=1&web=1&e=DACbPw)
+  to associated materials
 - pre-populating a datagridview from a list
 
 #### Mar 13, 2020
 
 - [Using lists to populate DataGridView & Binary I/O using files](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=74c38cd5-b250-4677-b578-ac490002cde1)
-- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Mar13?csf=1&web=1&e=4dHynb) to associated materials
+- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Mar13?csf=1&web=1&e=4dHynb)
+  to associated materials
 - change list to change DGV
 - binary file IO (serialization/deserialization)
 
 #### Feb 28, 2020
 
 - [Handling time differences](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d482e741-1b1e-436b-83a0-ac490002416b)
-- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Feb28?csf=1&web=1&e=YvkaqT) to associated materials
+- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Feb28?csf=1&web=1&e=YvkaqT)
+  to associated materials
 - handling time differences
 - debugging using breakpoints
 
 #### Feb 14, 2020
 
 - [Using static classes](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=17cb3a58-5428-44ea-b06d-ac480179e165)
-- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Feb14?csf=1&web=1&e=0cvpy5) to associated materials
+- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Feb14?csf=1&web=1&e=0cvpy5)
+  to associated materials
 - creating inventory as a "static" class
 - bindinglist vs list
 
 #### Jan 24, 2020
 
 - [How the requirement can be met for handling a calendar / asking for a week and month view on that calendar](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68593445-f0a1-4afb-bbff-ac480172db7f)
-- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Jan24?csf=1&web=1&e=B097EY) to associated materials
+- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Jan24?csf=1&web=1&e=B097EY)
+  to associated materials
 - demonstrate calendar handling
 - get ID from drop-down list without ID in it
 - get ID from latest INSERT (access DB)
@@ -121,7 +174,8 @@ Part 2: The ABC's for C
 #### Dec 20, 2019
 
 - [Remembering what you’ve selected in DataGridView](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d49f344d-e706-4ad9-900b-ac48005cb1e4)
-- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2019Dec20?csf=1&web=1&e=2GIL4f) to associated materials
+- [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2019Dec20?csf=1&web=1&e=2GIL4f)
+  to associated materials
 - remember what was selected in a DGV
 - binding a list to a DGV
 - null list vs empty list
@@ -129,34 +183,40 @@ Part 2: The ABC's for C
 #### Feb 15, 2019
 
 - [Localization](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fb5dc150-6a8b-49f7-b9e2-ab3001512a2e)
-- [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%205_%20Localization?csf=1&web=1&e=Z49mrS) to associated materials
+- [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%205_%20Localization?csf=1&web=1&e=Z49mrS)
+  to associated materials
 
 #### Jan 18, 2019
 
 - [Constructors & Debugging](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1f231d76-c3a7-4a44-a2a8-ab30014b77b3)
-- [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%204_%20Constructors%20_%20Debugging?csf=1&web=1&e=tUW4nh) to associated materials
+- [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%204_%20Constructors%20_%20Debugging?csf=1&web=1&e=tUW4nh)
+  to associated materials
 
 #### Jan 4, 2019
 
 - [Searching & Screen-Hide_Show](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83068aa7-6d9a-46ee-870b-ab30015421d1)
-- [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%203_%20Search?csf=1&web=1&e=7PbuXY) to "Search" associated materials
-- [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%203_%20Screen%20to%20Screen?csf=1&web=1&e=T9gOgM) to "Moving screen to screen" associated materials
+- [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%203_%20Search?csf=1&web=1&e=7PbuXY)
+  to "Search" associated materials
+- [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%203_%20Screen%20to%20Screen?csf=1&web=1&e=T9gOgM)
+  to "Moving screen to screen" associated materials
 
 #### Dec 21, 2018
 
 - [A "Modify" screen](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=be2b5090-a03c-4e54-9832-ab300148cb2b)
-- [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%202_%20a%20Modify%20screen?csf=1&web=1&e=ihkHdi) to associated materials
+- [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%202_%20a%20Modify%20screen?csf=1&web=1&e=ihkHdi)
+  to associated materials
 
 #### Dec 7, 2018
 
 - [The DataGridView](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=978b8078-f2a5-4c42-bb06-ab30013c36c0)
-- [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%201_%20the%20DataGridView?csf=1&web=1&e=UMeA9f) to associated materials
+- [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%201_%20the%20DataGridView?csf=1&web=1&e=UMeA9f)
+  to associated materials
 
 ---
 
-## Other
+<a name="VS-other-info"></a>
 
-### Visual Studio Tips
+### Visual Studio & Other
 
 [Visual Studio configuration](https://westerngovernorsuniversity.sharepoint.com/sites/CISoftwareTeamResourcesRepo/Student%20Resources/Forms/AllItems.aspx?id=%2Fsites%2FCISoftwareTeamResourcesRepo%2FStudent%20Resources%2FC968%2DC969%20Extras%2FC968%5FC969%5FVSVersions%2FVIsual%20Studio%20Versions%20for%20C968%20and%20C969%2Epdf&parent=%2Fsites%2FCISoftwareTeamResourcesRepo%2FStudent%20Resources%2FC968%2DC969%20Extras%2FC968%5FC969%5FVSVersions&p=true&ga=1)
 
@@ -166,65 +226,69 @@ Part 2: The ABC's for C
 [Visual Studio 2019 Debugging Tools Part 4](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=772292a5-c17c-4fc5-8a06-adf301837fc3)  
 [Visual Studio 2019 Debugging (powerpoint file)](https://westerngovernorsuniversity.sharepoint.com/:p:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/VS2019%20Debugging/Visual%20Studio%202019%20Debugging.pptx?d=w37e281cd315f4c85a8de5fac79f5ca5a&csf=1&web=1&e=CMLEeu)
 
-[(article) The Virtual Machine Development Environment](https://protect-us.mimecast.com/s/JBuOC31rM2cRmmzMZigdzEF?domain=srm--c.vf.force.com)  
-[(video) The Virtual Development Environment For C969 (09-25-2021)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2abd4ecb-adda-40df-8044-adae00e56fe9)
+<a name="PA-requirements-checklist"></a>
 
-(see the next 5 links to support this topic):
+## ✅ PA Requirements Checklist ✅
 
-[Webex QSG: Backing Up Database Table Data](https://wgu.webex.com/webappng/sites/wgu/recording/bc314ed7f9f21039aabb0050568f95d3/playback)  
-[Webex QSG: Establishing A Client-Side Database Part 1](https://wgu.webex.com/webappng/sites/wgu/recording/c364f547fa5e1039877d0050568f9b64/playback)  
-[Webex QSG: Establishing A Client-Side Database Part 2](https://wgu.webex.com/webappng/sites/wgu/recording/cce7d3e7fa601039b99e005056816858/playback)  
-[Webex QSG: Establishing A Client-Side Database Part 3](https://wgu.webex.com/webappng/sites/wgu/recording/0fd3ea5afa621039bbfb0050568114a0/playback)
+### Introduction
 
----
+Throughout your career in software design and development, you will be asked to create applications with various
+features and functionality based on business requirements.
 
-## PA REQUIREMENTS CHECKLIST
+When a new system is developed, typically the process begins with a business analyst gathering and writing these
+business requirements, with the assistance of subject matter experts from the business.
 
-All requirements and information are from WGU as of *Fall 2023*.
+Then a system analyst works with several application team members and others to formulate a solution based on the
+requirements.
 
-### INTRODUCTION
+As a developer, you would then create a design document from the solution and finally develop the system based on your
+design document.
 
-Throughout your career in software design and development, you will be asked to create applications with various features and functionality based on business requirements.
+For this assessment, you will create a C# application using the solution statements provided in the requirements
+section.
 
-When a new system is developed, typically the process begins with a business analyst gathering and writing these business requirements, with the assistance of subject matter experts from the business.
+The skills you showcase in your completed application will be useful in responding to technical interview questions for
+future employment. This application may also be added to your portfolio to show to future employers.
 
-Then a system analyst works with several application team members and others to formulate a solution based on the requirements.
-
-As a developer, you would then create a design document from the solution and finally develop the system based on your design document.
-
-For this assessment, you will create a C# application using the solution statements provided in the requirements section.
-
-The skills you showcase in your completed application will be useful in responding to technical interview questions for future employment. This application may also be added to your portfolio to show to future employers.
-
-Your submission should include a zip file with all the necessary code files to compile, support, and run your application.
+Your submission should include a zip file with all the necessary code files to compile, support, and run your
+application.
 
 *Note: The preferred integrated development environment (IDE) for this assignment is Visual Studio.  
 If you choose to use another IDE, you must export your project into Visual Studio format for submission.*
 
-*Your submission should include a zip file with all the necessary code files to compile, support, and run your application.  
+*Your submission should include a zip file with all the necessary code files to compile, support, and run your
+application.  
 The zip file submission must also keep the project file and folder structure intact for the Visual Studio IDE.*
 
 ---
 
-### SCENARIO
+### Scenario
 
 You are working for a small manufacturing organization that has outgrown its current inventory system.  
-They have been using a spreadsheet program to manually enter inventory additions, deletions, and other data from a paper-based system but would now like you to develop a more sophisticated inventory program.
+They have been using a spreadsheet program to manually enter inventory additions, deletions, and other data from a
+paper-based system but would now like you to develop a more sophisticated inventory program.
 
-They have provided you with a mock-up of the user interface to use in the design and development of the system (see the attached “GUI Mock-Up”) and a class diagram to assist you in your work (see the attached “UML Class Diagram”).  
+They have provided you with a mock-up of the user interface to use in the design and development of the system (see the
+attached “GUI Mock-Up”) and a class diagram to assist you in your work (see the attached “UML Class Diagram”).  
 The organization also has specific business requirements that must be included as part of the application.  
-A system analyst from your company created the solution statements outlined in the requirements section based on the manufacturing organization’s business requirements. You will use these solution statements to develop your application.
+A system analyst from your company created the solution statements outlined in the requirements section based on the
+manufacturing organization’s business requirements. You will use these solution statements to develop your application.
 
 ---
 
-### REQUIREMENTS
+### Requirements
 
 _Your submission must be your original work.  
-No more than a combined total of 30% of the submission and no more than a 10% match to any one individual source can be directly quoted or closely paraphrased from sources, even if cited correctly. An originality report is provided when you submit your task that can be used as a guide._
+No more than a combined total of 30% of the submission and no more than a 10% match to any one individual source can be
+directly quoted or closely paraphrased from sources, even if cited correctly. An originality report is provided when you
+submit your task that can be used as a guide._
 
-_You must use the rubric to direct the creation of your submission because it provides detailed criteria that will be used to evaluate your work. Each requirement below may be evaluated by more than one rubric aspect. The rubric aspect titles may contain hyperlinks to relevant portions of the course._
+_You must use the rubric to direct the creation of your submission because it provides detailed criteria that will be
+used to evaluate your work. Each requirement below may be evaluated by more than one rubric aspect. The rubric aspect
+titles may contain hyperlinks to relevant portions of the course._
 
 ---
+<a name="part1-ui-checklist"></a>
 
 ### I. User Interface
 
@@ -243,14 +307,17 @@ Write code to display each of the following forms in the GUI:
 - [ ] radio buttons for “In-House” and “Outsourced” parts
 - [ ] buttons for “Save” and “Cancel”
 - [ ] text boxes for ID, name, inventory level, price, max and min values, and company name or machine ID
-- [ ] labels for ID, name, inventory level, price/cost, max and min values, the application title, and company name or machine ID
+- [ ] labels for ID, name, inventory level, price/cost, max and min values, the application title, and company name or
+  machine ID
 
-##### **C. A modify part form, with fields that populate with data from an existing Part, showing the following controls:**
+##### **C. A modify part form, with fields that populate with data from an existing Part, showing the following
+controls:**
 
 - [ ] radio buttons for “In-House” and “Outsourced” parts
 - [ ] buttons for “Save” and “Cancel”
 - [ ] text boxes for ID, name, inventory level, price, max and min values, and company name or machine ID
-- [ ] labels for ID, name, inventory level, price, max and min values, the application title, and company name or machine ID
+- [ ] labels for ID, name, inventory level, price, max and min values, the application title, and company name or
+  machine ID
 
 ##### **D. An add product form, showing the following controls:**
 
@@ -261,7 +328,8 @@ Write code to display each of the following forms in the GUI:
 - [ ] a grid view for parts associated with the product
 - [ ] a “Search” button and a text field with an associated list for displaying the results of the search
 
-##### **E. A modify product form, with fields that populate with data from an existing product, showing the following controls:**
+##### **E. A modify product form, with fields that populate with data from an existing product, showing the following
+controls:**
 
 - [ ] buttons for “Save,” “Cancel,” “Add” part, and “Delete” part
 - [ ] text boxes for ID, name, inventory level, price, and max and min values
@@ -270,53 +338,63 @@ Write code to display each of the following forms in the GUI:
 - [ ] a “Search” button and a text box with associated list for displaying the results of the search
 
 ---
+<a name="part2-application-checklist"></a>
 
 ### II. Application
 
-Now that you’ve created the GUI, write code to create the class structure provided in the attached “UML (unified modeling language) Class Diagram.”  
+Now that you’ve created the GUI, write code to create the class structure provided in the attached “UML (unified
+modeling language) Class Diagram.”  
 Enable each of the following capabilities in the application:
 
-##### **F. Using the attached “UML Class Diagram,” create appropriate classes and instance variables with the following criteria:**
+##### **F. Using the attached “UML Class Diagram,” create appropriate classes and instance variables with the following
+criteria:**
 
 - [ ] five classes with the all associated properties
 - [ ] variables are accessible/modifiable through properties
 
-##### **G. Add the following functionalities to the main form, using the methods provided in the attached “UML Class Diagram”:**
+##### **G. Add the following functionalities to the main form, using the methods provided in the attached “UML Class
+Diagram”:**
 
 - [ ] redirect the user to the “Add Part,” “Modify Part,” “Add Product,” or “Modify Product” forms
 - [ ] delete a selected part or product from the grid view
 - [ ] search for a part or product and display matching results
 - [ ] exit the main form
 
-##### **H.  Add the following functionalities to the part forms, using the methods provided in the attached “UML Class Diagram”:**
+##### **H. Add the following functionalities to the part forms, using the methods provided in the attached “UML Class
+Diagram”:**
 
-- [ ] 1. **“Add Part” form**
-	- [ ] select “In-House” or “Outsourced”
-	- [ ] enter name, inventory level, price, max and min values, and company name or machine ID
-	- [ ] save the data and then redirect to the main form
-	- [ ] cancel or exit out of this form and go back to the main form
+- [ ] 
+    1. **“Add Part” form**
 
-- [ ] 2. **“Modify Part” form**
-	- [ ] select “In-House” or “Outsourced”
-	- [ ] modify or change data values
-	- [ ] save modifications to the data and then redirect to the main form
-	- [ ] cancel or exit out of this form and go back to the main form
+    - [ ] select “In-House” or “Outsourced”
+    - [ ] enter name, inventory level, price, max and min values, and company name or machine ID
+    - [ ] save the data and then redirect to the main form
+    - [ ] cancel or exit out of this form and go back to the main form
 
-##### **I.  Add the following functionalities to the product forms, using the methods provided in the attached “UML Class Diagram”:**
+- [ ] 
+    2. **“Modify Part” form**
+
+    - [ ] select “In-House” or “Outsourced”
+    - [ ] modify or change data values
+    - [ ] save modifications to the data and then redirect to the main form
+    - [ ] cancel or exit out of this form and go back to the main form
+
+##### **I. Add the following functionalities to the product forms, using the methods provided in the attached “UML Class
+Diagram”:**
 
 - [ ] **1. “Add Product” form**
-	- [ ] enter name, inventory level, price, and max and min values
-	- [ ] save the data and then redirect to the main form
-	- [ ] associate one or more parts with a product
-	- [ ] remove or disassociate a part from a product
-	- [ ] cancel or exit out of this form and go back to the main form
+    - [ ] enter name, inventory level, price, and max and min values
+    - [ ] save the data and then redirect to the main form
+    - [ ] associate one or more parts with a product
+    - [ ] remove or disassociate a part from a product
+    - [ ] cancel or exit out of this form and go back to the main form
 
 - [ ] **2. “Modify Product” form**
-	- [ ] modify or change data values
-	- [ ] save modifications to the data and then redirect to the main form
-	- [ ] associate one or more parts with a product
-	- [ ] remove or disassociate a part from a product
-	- [ ] cancel or exit out of this form and go back to the main form
+    - [ ] modify or change data values
+    - [ ] save modifications to the data and then redirect to the main form
+    - [ ] associate one or more parts with a product
+    - [ ] remove or disassociate a part from a product
+    - [ ] cancel or exit out of this form and go back to the main form
 
 ##### **J. Write code to address the following conditions with exception handling code:**
 
@@ -324,3 +402,76 @@ Enable each of the following capabilities in the application:
 - [ ] Min should be less than Max; and Inv should be between those two values
 - [ ] Prevent the user from deleting a product that has a Part associated with it
 - [ ] Confirm “Delete” actions
+
+---
+<a name="project-checklist"></a>
+
+## ✅ Project Checklist ✅
+
+### Part 1
+
+- [ ] Read the PA directions in EMA
+- [ ] [Watch](https://wgu.webex.com/wgu/ldr.php?RCID=9fe68a533178c30d28109b2ecefc5123) Example GUI in Action
+- [ ] Read the [FAQ](https://srm--c.vf.force.com/apex/coursearticle?Id=kA03x000000snjLCAQ)
+- [ ] [Download](https://visualstudio.microsoft.com/downloads/) Visual Studio
+- [ ] Study and comprehend the course Learning Resources [seen above](#links-to-videos--resources)
+
+### Part 2
+
+- [ ] Create a Windows C# App in Visual Studio
+  (Please put your name in the project name, otherwise there will be several hundred zipped projects all named
+  InventorySystem)
+- [ ] [Examine](http://csharp.net-informations.com/datagridview/csharp-datagridview-tutorial.htm) DataGridView tutorial
+- Use C# Windows Forms to
+    - [ ] Build the main screen
+    - [ ] Build the Add/Modify Part screens
+    - [ ] Build the Add/Modify Product screens
+
+### Part 3
+
+- Create the following classes, following the [[UML diagram]] and using Properties
+    - [ ] Inventory (consider making this class static)
+    - [ ] Product
+    - [ ] Part (this is an abstract class)
+    - [ ] In-house
+    - [ ] Outsourced
+- [ ] Create all the button event handlers
+
+### Part 4
+
+- [ ] [Examine](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/controls/displaying-data-in-the-windows-forms-datagridview-control?view=netframeworkdesktop-4.8)
+  Populating a DataGridView
+- [ ] View webinar on switching screens, in the Course Tips area, dated Jan 4, 2019, Screen-Hide/Show
+- [ ] Create an Add and a Modify Part screen. You can choose to implement as two distinct files (Add and Modify) or one
+  file implementing both views.
+- [ ] Enable the user to Add a Part
+- [ ] Enable the user to Modify a Part (pre-fill textboxes).
+- [ ] Enable the user to Delete a Part using the Delete button on the main screen.
+- [ ] Enable the user to pick whether to create an In-house or an Outsourced Part using a radio button
+- [ ] Enable the user to cancel out of the Add & Modify Part screens
+- [ ] View webinar on searching, in the Course Tips area, dated Jan 4, 2019, Search
+- [ ] Enable the user to search the Part DataGridView on the main screen.
+- [ ] Enable the user to search the Product DataGridView on the main screen.
+- [ ] Enable the user to Add a Product
+- [ ] Enable the user to Modify a Product (pre-fill textboxes)
+- [ ] Enable the user to Delete a Product using the delete product button on the main screen.
+- [ ] Enable the user to select Parts from the upper table and add them to the lower table
+- [ ] Enable the user to select Parts from the lower table and delete them from that table
+- [ ] Enable the user to search the upper table on the Add/Modify Product screen(s)
+- [ ] Enable the user to Exit the main screen.
+
+### Part 5
+
+- [ ] Read
+  about [MessageBox](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.messagebox?view=netframework-4.8)
+- Handle the following Exceptions:
+    - [ ] Detect non-numeric values in textboxes that expect numeric values
+    - [ ] Min should be less than Max, and Inv should be between those two values
+    - [ ] Prevent the user from deleting a product that has a Part associated with it
+    - [ ] Confirm “Delete” actions
+- [ ] Verify that everything functions as intended
+
+### Part 6
+
+- [ ] Zip up project directory, as the evaluators will run the project in Visual Studio
+- [ ] Submit via the Task View in the main course page
