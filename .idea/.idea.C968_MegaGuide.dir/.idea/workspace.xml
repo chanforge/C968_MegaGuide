@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ff090b3d-7921-437a-8456-29be5c34d4c8" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/1_performance_assessment_guide.md" afterDir="false" />
