@@ -1,26 +1,27 @@
 # C968 Mega Guide
 
-## Table of contents
+## Table of contents 📋
 
-1. WGU's PA guide and resources & videos directory
-   - [The Performance Assessment Guide](#PA-guide)
+1. WGU's PA guide + resources & videos (Directory)
+   - [Performance Assessment guide](#PA-guide)
+   - [UML Class diagram](#uml-diagram)
    - [Lauren Provost's webinars](#LP-webinars)
    - [Data Grid webinars](#datagrid-webinars)
    - [Tom Weidner's webinars](#TW-webinars)
    - [Visual Studio & Other info](#VS-other-info)
 
-2. PA requirements checklist
+2. PA requirements checklist (Does it have what it needs?)
    - [Introduction](#PA-requirements-checklist)
    - [Checklist Part 1: User Interface](#part1-ui-checklist)
-   - [Checklist Part 2: Application](#part1-application-checklist)
+   - [Checklist Part 2: Application](#part2-application-checklist)
 
-3. Project step-by-step checklist
-   - [Start your project here!](#project-checklist)
+3. Project checklist (Step by step basics to walk your project through)
+   - [Start your project here!](#project-checklist) 👈
 
----
+
 
 <a name="PA-guide"></a>
-## Performance assessment guide
+## 🌐 Performance Assessment guide 🌐
 
 In this guide, you'll find resources and links related to the performance assessment for this course, complete with captions.
 
@@ -34,13 +35,22 @@ This guide aims to compile a comprehensive list of resources for the C968 PA in 
 
 **Note:** All requirements and information are from WGU as of *Fall 2023*.
 
-### Requirements
+---
+
+### Project requirements
 
 [Software I checklist](https://srm--c.vf.force.com/apex/CourseArticle?id=kA03x000000snjQCAQ&groupId=&searchTerm=&courseCode=C968&rtn=%2Fapex%2FCommonsExpandedSearch)
 
 [The A, B, C's for C968 (Requirements)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5dd7ac94-2eee-4391-a343-ad91013cfe22) - (08-29-2021)
 
 ---
+
+<a name="uml-diagram"></a>
+#### UML Class Diagram
+<img src = "https://i.imgur.com/YjgeFDs.png" alt=UML Class Diagram>
+
+---
+
 <a name="LP-webinars"></a>
 ### Lauren Provost's Webinars
 
@@ -176,11 +186,10 @@ Part 2: The ABC's for C
 - [The DataGridView](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=978b8078-f2a5-4c42-bb06-ab30013c36c0)
 - [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%201_%20the%20DataGridView?csf=1&web=1&e=UMeA9f) to associated materials
 
+---
 
 <a name="VS-other-info"></a>
-## Visual Studio & Other
-
-### Visual Studio Tips
+### Visual Studio & Other
 
 [Visual Studio configuration](https://westerngovernorsuniversity.sharepoint.com/sites/CISoftwareTeamResourcesRepo/Student%20Resources/Forms/AllItems.aspx?id=%2Fsites%2FCISoftwareTeamResourcesRepo%2FStudent%20Resources%2FC968%2DC969%20Extras%2FC968%5FC969%5FVSVersions%2FVIsual%20Studio%20Versions%20for%20C968%20and%20C969%2Epdf&parent=%2Fsites%2FCISoftwareTeamResourcesRepo%2FStudent%20Resources%2FC968%2DC969%20Extras%2FC968%5FC969%5FVSVersions&p=true&ga=1)
 
@@ -190,21 +199,10 @@ Part 2: The ABC's for C
 [Visual Studio 2019 Debugging Tools Part 4](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=772292a5-c17c-4fc5-8a06-adf301837fc3)  
 [Visual Studio 2019 Debugging (powerpoint file)](https://westerngovernorsuniversity.sharepoint.com/:p:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/VS2019%20Debugging/Visual%20Studio%202019%20Debugging.pptx?d=w37e281cd315f4c85a8de5fac79f5ca5a&csf=1&web=1&e=CMLEeu)
 
-[(article) The Virtual Machine Development Environment](https://protect-us.mimecast.com/s/JBuOC31rM2cRmmzMZigdzEF?domain=srm--c.vf.force.com)  
-[(video) The Virtual Development Environment For C969 (09-25-2021)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2abd4ecb-adda-40df-8044-adae00e56fe9)
-
-(see the next 5 links to support this topic):
-
-[Webex QSG: Backing Up Database Table Data](https://wgu.webex.com/webappng/sites/wgu/recording/bc314ed7f9f21039aabb0050568f95d3/playback)  
-[Webex QSG: Establishing A Client-Side Database Part 1](https://wgu.webex.com/webappng/sites/wgu/recording/c364f547fa5e1039877d0050568f9b64/playback)  
-[Webex QSG: Establishing A Client-Side Database Part 2](https://wgu.webex.com/webappng/sites/wgu/recording/cce7d3e7fa601039b99e005056816858/playback)  
-[Webex QSG: Establishing A Client-Side Database Part 3](https://wgu.webex.com/webappng/sites/wgu/recording/0fd3ea5afa621039bbfb0050568114a0/playback)
-
----
 <a name="PA-requirements-checklist"></a>
-## PA REQUIREMENTS CHECKLIST
+## ✅ PA Requirements Checklist ✅
 
-### INTRODUCTION
+### Introduction
 
 Throughout your career in software design and development, you will be asked to create applications with various features and functionality based on business requirements.
 
@@ -228,7 +226,7 @@ The zip file submission must also keep the project file and folder structure int
 
 ---
 
-### SCENARIO
+### Scenario
 
 You are working for a small manufacturing organization that has outgrown its current inventory system.  
 They have been using a spreadsheet program to manually enter inventory additions, deletions, and other data from a paper-based system but would now like you to develop a more sophisticated inventory program.
@@ -239,7 +237,7 @@ A system analyst from your company created the solution statements outlined in t
 
 ---
 
-### REQUIREMENTS
+### Requirements
 
 _Your submission must be your original work.  
 No more than a combined total of 30% of the submission and no more than a 10% match to any one individual source can be directly quoted or closely paraphrased from sources, even if cited correctly. An originality report is provided when you submit your task that can be used as a guide._
@@ -349,7 +347,7 @@ Enable each of the following capabilities in the application:
 
 ---
 <a name="project-checklist"></a>
-## Project Checklist
+## ✅ Project Checklist ✅
 
 ### Part 1
 - [ ] Read the PA directions in EMA
