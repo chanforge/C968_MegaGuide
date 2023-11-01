@@ -10,6 +10,8 @@ Resources and links related to the performance assessment for this course with c
 
 [The A, B, C's for C968 (Requirements)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5dd7ac94-2eee-4391-a343-ad91013cfe22) - (08-29-2021)
 
+---
+
 ## Lauren Provost's Webinars
 
 Part 1: GUI Mock up in action
@@ -30,9 +32,11 @@ Part 2: The ABC's for C
 
 [The DataGrid: A little more, Part 3 (08-08-2021)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6f47db54-9139-4b6b-8265-ad7e00f69d45)
 
+---
+
 ## Tom Weidner’s Webinars
 
-### Apr 18, 2021
+#### Apr 18, 2021
 
 - [Access your database & switch times from UTC to local](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cc70088d-b76f-4342-a196-ad13014cde7c)
 - [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2021Apr18?csf=1&web=1&e=3I4eiA) to associated materials
@@ -40,24 +44,24 @@ Part 2: The ABC's for C
 - UTC to Local times
 - Report
 
-### Sep 25, 2020
+#### Sep 25, 2020
 
 - [Lambdas](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b55e7b27-bf94-43f1-8d02-ac440014b822)
 - [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Sep25?csf=1&web=1&e=OcuiYY) to associated materials
 
-### Aug 28, 2020
+#### Aug 28, 2020
 
 - [Validation of info in text forms](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f93c466f-cc5a-46eb-92c6-ac26003f64bd)
 - [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Aug28?csf=1&web=1&e=sv5jAA) to associated materials
 - validating text boxes
 
-### Jun 26, 2020
+#### Jun 26, 2020
 
 - [Objects, lists of objects, displaying objects](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a339aab-e003-425b-a18d-abee0049027b)
 - [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Jun26?csf=1&web=1&e=4Z7QFh) to associated materials
 - Lists of things with lists of things
 
-### May 8, 2020
+#### May 8, 2020
 
 - [Auto adjusting time zones](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89b8b818-b92a-4dd3-b990-abb70052c241)
 
@@ -67,40 +71,40 @@ Part 2: The ABC's for C
 - [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020-05-08?csf=1&web=1&e=jYW3Pl) to associated materials
 - Text file IO
 
-### Apr 24, 2020
+#### Apr 24, 2020
 
 - [How to generate a report (Student request)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=56c142bb-f527-4494-ba30-ac4900032d09)
 - [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Apr24?csf=1&web=1&e=Q0GTYE) to associated materials
 - generating reports
 
-### Mar 27, 2020
+#### Mar 27, 2020
 
 - [How to pre-populate a DataGridView list (Student request)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a6cc7f1-7e33-46c5-957c-ac490002fd09)
 - [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Mar27?csf=1&web=1&e=DACbPw) to associated materials
 - pre-populating a datagridview from a list
 
-### Mar 13, 2020
+#### Mar 13, 2020
 
 - [Using lists to populate DataGridView & Binary I/O using files](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=74c38cd5-b250-4677-b578-ac490002cde1)
 - [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Mar13?csf=1&web=1&e=4dHynb) to associated materials
 - change list to change DGV
 - binary file IO (serialization/deserialization)
 
-### Feb 28, 2020
+#### Feb 28, 2020
 
 - [Handling time differences](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d482e741-1b1e-436b-83a0-ac490002416b)
 - [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Feb28?csf=1&web=1&e=YvkaqT) to associated materials
 - handling time differences
 - debugging using breakpoints
 
-### Feb 14, 2020
+#### Feb 14, 2020
 
 - [Using static classes](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=17cb3a58-5428-44ea-b06d-ac480179e165)
 - [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Feb14?csf=1&web=1&e=0cvpy5) to associated materials
 - creating inventory as a "static" class
 - bindinglist vs list
 
-### Jan 24, 2020
+#### Jan 24, 2020
 
 - [How the requirement can be met for handling a calendar / asking for a week and month view on that calendar](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68593445-f0a1-4afb-bbff-ac480172db7f)
 - [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2020Jan24?csf=1&web=1&e=B097EY) to associated materials
@@ -108,7 +112,7 @@ Part 2: The ABC's for C
 - get ID from drop-down list without ID in it
 - get ID from latest INSERT (access DB)
 
-### Dec 20, 2019
+#### Dec 20, 2019
 
 - [Remembering what you’ve selected in DataGridView](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d49f344d-e706-4ad9-900b-ac48005cb1e4)
 - [Link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/2019Dec20?csf=1&web=1&e=2GIL4f) to associated materials
@@ -116,28 +120,28 @@ Part 2: The ABC's for C
 - binding a list to a DGV
 - null list vs empty list
 
-### Feb 15, 2019
+#### Feb 15, 2019
 
 - [Localization](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fb5dc150-6a8b-49f7-b9e2-ab3001512a2e)
 - [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%205_%20Localization?csf=1&web=1&e=Z49mrS) to associated materials
 
-### Jan 18, 2019
+#### Jan 18, 2019
 
 - [Constructors & Debugging](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1f231d76-c3a7-4a44-a2a8-ab30014b77b3)
 - [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%204_%20Constructors%20_%20Debugging?csf=1&web=1&e=tUW4nh) to associated materials
 
-### Jan 4, 2019
+#### Jan 4, 2019
 
 - [Searching & Screen-Hide_Show](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83068aa7-6d9a-46ee-870b-ab30015421d1)
 - [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%203_%20Search?csf=1&web=1&e=7PbuXY) to "Search" associated materials
 - [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%203_%20Screen%20to%20Screen?csf=1&web=1&e=T9gOgM) to "Moving screen to screen" associated materials
 
-### Dec 21, 2018
+#### Dec 21, 2018
 
 - [A "Modify" screen](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=be2b5090-a03c-4e54-9832-ab300148cb2b)
 - [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%202_%20a%20Modify%20screen?csf=1&web=1&e=ihkHdi) to associated materials
 
-### Dec 7, 2018
+#### Dec 7, 2018
 
 - [The DataGridView](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=978b8078-f2a5-4c42-bb06-ab30013c36c0)
 - [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%201_%20the%20DataGridView?csf=1&web=1&e=UMeA9f) to associated materials
@@ -168,7 +172,7 @@ Part 2: The ABC's for C
 
 ---
 
-# C969/195
+## C969/195
 
 Resources and links related to the performance assessment for this course with captions.
 
@@ -179,7 +183,7 @@ Resources and links related to the performance assessment for this course with c
 [Part II - A: Connection to the Database in Visual Studio (04-24-2022)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0949e7c2-eb7e-43ed-9aa7-ae810108e475)  
 [Part II - B: Creating a Reusable Connection Class (04-28-2022](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a84c4b93-c120-4de9-ab65-ae850131f053)
 
-## Requirements
+### Requirements
 
 - [The Rosetta Stone (requirements)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81a1c1a5-a87c-4865-8dbb-ad8a0102cd67)
 - (08-20-2021)
