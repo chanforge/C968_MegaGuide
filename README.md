@@ -16,7 +16,7 @@ This is a guide to help list every known resources related to the C968 PA in a c
 
 Feel free to copy and use the checklists in your own markdown reader.
 
-## Requirements
+### Requirements
 
 [Software I checklist](https://srm--c.vf.force.com/apex/CourseArticle?id=kA03x000000snjQCAQ&groupId=&searchTerm=&courseCode=C968&rtn=%2Fapex%2FCommonsExpandedSearch)
 
@@ -24,7 +24,7 @@ Feel free to copy and use the checklists in your own markdown reader.
 
 ---
 
-## Lauren Provost's Webinars
+### Lauren Provost's Webinars
 
 Part 1: GUI Mock up in action
 [Lauren Provost's Personal Room: 2224-1 (August 21, 2023)](https://wgu.webex.com/wgu/ldr.php?RCID=9fe68a533178c30d28109b2ecefc5123)
@@ -34,9 +34,9 @@ Part 2: The ABC's for C
 
 ---
 
-## Data Grid
+### Data Grid
 
-### The DataGrid series (2021)
+#### The DataGrid series (2021)
 
 [The Data Grid: Swords (7-11-2021)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c1e9a4ce-951f-41c3-a93b-ad6200f02677)
 
@@ -46,7 +46,7 @@ Part 2: The ABC's for C
 
 ---
 
-## Tom Weidner’s Webinars
+### Tom Weidner’s Webinars
 
 #### Apr 18, 2021
 
