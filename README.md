@@ -1,6 +1,6 @@
 # C968 Mega Guide
 
-### Table of contents
+## Table of contents
 
 1. [Links to videos & resources](#links-to-videos--resources)
 2. [Pre-assessment requirements checklist](#pre-assessment-requirements-checklist)
