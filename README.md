@@ -2,19 +2,37 @@
 
 ## Table of contents
 
-1. [Links to videos & resources](#links-to-videos--resources)
-2. [Pre-assessment requirements checklist](#pre-assessment-requirements-checklist)
-3. [ Project checklist 🚨 (start your project here! Step-by-step instructions) 🚨](#start-your-project-here-project-checklist)
+1. WGU's PA guide and resources & videos directory
+   - [The Performance Assessment Guide](#PA-guide)
+   - [Lauren Provost's webinars](#LP-webinars)
+   - [Data Grid webinars](#datagrid-webinars)
+   - [Tom Weidner's webinars](#TW-webinars)
+   - [Visual Studio & Other info](#VS-other-info)
 
+2. PA requirements checklist
+   - [Introduction](#PA-requirements-checklist)
+   - [Checklist Part 1: User Interface](#part1-ui-checklist)
+   - [Checklist Part 2: Application](#part1-application-checklist)
+
+3. Project step-by-step checklist
+   - [Start your project here!](#project-checklist)
+
+---
+
+<a name="PA-guide"></a>
 ## Performance assessment guide
 
-Resources and links related to the performance assessment for this course with captions.
+In this guide, you'll find resources and links related to the performance assessment for this course, complete with captions.
 
-All links and contents have been provided by WGU through their own Resources / Course Tips pages, however, the content is typically fragmented and hard to follow in a consecutive manner leading to the creation of your performance assessment project.
+*All the links and content are courtesy of WGU through their Resources/Course Tips pages.*
 
-This is a guide to help list every known resources related to the C968 PA in a clean list to provide you improved guidance and tracking your progress.
+However, the content is often scattered, making it challenging to follow in a logical sequence when working on your performance assessment project.
 
-Feel free to copy and use the checklists in your own markdown reader.
+This guide aims to compile a comprehensive list of resources for the C968 PA in a clear format, offering you improved guidance and progress tracking.
+
+**Feel free to copy and use the checklists in your preferred markdown reader.**
+
+**Note:** All requirements and information are from WGU as of *Fall 2023*.
 
 ### Requirements
 
@@ -23,7 +41,7 @@ Feel free to copy and use the checklists in your own markdown reader.
 [The A, B, C's for C968 (Requirements)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5dd7ac94-2eee-4391-a343-ad91013cfe22) - (08-29-2021)
 
 ---
-
+<a name="LP-webinars"></a>
 ### Lauren Provost's Webinars
 
 Part 1: GUI Mock up in action
@@ -33,7 +51,7 @@ Part 2: The ABC's for C
 [Lauren Provost's Personal Room: 2251-1 (August 21, 2023)](https://wgu.webex.com/wgu/ldr.php?RCID=e81c0e4b186d03af64ba2d7302ec51ed)
 
 ---
-
+<a name="datagrid-webinars"></a>
 ### Data Grid
 
 #### The DataGrid series (2021)
@@ -45,7 +63,7 @@ Part 2: The ABC's for C
 [The DataGrid: A little more, Part 3 (08-08-2021)](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6f47db54-9139-4b6b-8265-ad7e00f69d45)
 
 ---
-
+<a name="TW-webinars"></a>
 ### Tom Weidner’s Webinars
 
 #### Apr 18, 2021
@@ -158,9 +176,9 @@ Part 2: The ABC's for C
 - [The DataGridView](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=978b8078-f2a5-4c42-bb06-ab30013c36c0)
 - [link](https://westerngovernorsuniversity.sharepoint.com/:f:/r/sites/CISoftwareTeamResourcesRepo/Student%20Resources/C968-C969%20Extras/Webinars/C%23%201_%20the%20DataGridView?csf=1&web=1&e=UMeA9f) to associated materials
 
----
 
-## Other
+<a name="VS-other-info"></a>
+## Visual Studio & Other
 
 ### Visual Studio Tips
 
@@ -183,10 +201,8 @@ Part 2: The ABC's for C
 [Webex QSG: Establishing A Client-Side Database Part 3](https://wgu.webex.com/webappng/sites/wgu/recording/0fd3ea5afa621039bbfb0050568114a0/playback)
 
 ---
-
+<a name="PA-requirements-checklist"></a>
 ## PA REQUIREMENTS CHECKLIST
-
-All requirements and information are from WGU as of *Fall 2023*.
 
 ### INTRODUCTION
 
@@ -231,7 +247,7 @@ No more than a combined total of 30% of the submission and no more than a 10% ma
 _You must use the rubric to direct the creation of your submission because it provides detailed criteria that will be used to evaluate your work. Each requirement below may be evaluated by more than one rubric aspect. The rubric aspect titles may contain hyperlinks to relevant portions of the course._
 
 ---
-
+<a name="part1-ui-checklist"></a>
 ### I. User Interface
 
 Create a C# application with a graphical user interface (GUI) based on the attached “GUI Mock-Up.”  
@@ -276,7 +292,7 @@ Write code to display each of the following forms in the GUI:
 - [ ] a “Search” button and a text box with associated list for displaying the results of the search
 
 ---
-
+<a name="part2-application-checklist"></a>
 ### II. Application
 
 Now that you’ve created the GUI, write code to create the class structure provided in the attached “UML (unified modeling language) Class Diagram.”  
@@ -332,15 +348,15 @@ Enable each of the following capabilities in the application:
 - [ ] Confirm “Delete” actions
 
 ---
-
+<a name="project-checklist"></a>
 ## Project Checklist
 
 ### Part 1
 - [ ] Read the PA directions in EMA
 - [ ] [Watch](https://wgu.webex.com/wgu/ldr.php?RCID=9fe68a533178c30d28109b2ecefc5123) Example GUI in Action
 - [ ] Read the [FAQ](https://srm--c.vf.force.com/apex/coursearticle?Id=kA03x000000snjLCAQ)
-- [ ] Download Visual Studio
-- [ ] Study and comprehend the course Learning Resources
+- [ ] [Download](https://visualstudio.microsoft.com/downloads/) Visual Studio
+- [ ] Study and comprehend the course Learning Resources [seen above](#links-to-videos--resources)
 
 ### Part 2
 - [ ] Create a Windows C# App in Visual Studio 
